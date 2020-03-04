@@ -1,0 +1,10 @@
+print("Задание 2")
+import math
+print("Введите х ")
+x = float(input())
+print("Введите y ")
+y = float(input()) 
+abs(x)
+abs(y)
+S = ((abs(x)-abs(y)) /(1 + (abs(x)*abs(y))))
+print("Ответ = " , (S))
